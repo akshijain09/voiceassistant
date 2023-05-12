@@ -16,8 +16,11 @@ USB Mic and Speaker.
 
 # How it works:
 A set of pre-installed python modules with a stable internet connection to establish a successful API call request/response 
+
 to database in order to get the information/story of the given Indian toy as per the command given by the end user.
+
 Below are packages that needs to be pre installed
 Required package for speech input and conversation of speech into meaningful text.
+
 pip install pyaudio , speech recognition and pyttsx.
 For database we have created and hosted a website with all the required data.
