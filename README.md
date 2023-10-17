@@ -24,3 +24,8 @@ Required package for speech input and conversation of speech into meaningful tex
 
 pip install pyaudio , speech recognition and pyttsx.
 For database we have created and hosted a website with all the required data.
+
+
+#Video link
+https://drive.google.com/file/d/1DDIdQAPv6iAUJEsZQhtWLRcPVmWooKUO/view?usp=sharing
+
