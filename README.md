@@ -31,4 +31,4 @@ https://drive.google.com/file/d/1DDIdQAPv6iAUJEsZQhtWLRcPVmWooKUO/view?usp=shari
 
 
 
-<img align="right"> <img src="<img align="right"> <img src="https://img.freepik.com/premium-photo/beautiful-cute-anime-girl-floating-space-listening-music-her-headphones-manga-style-relaxing-generative-ai-lofi-hip-hop-music-study-girl-chilling-generative-ai_117038-5568.jpg?w=740">">
+<img align="right"> <img src="https://drive.google.com/file/d/1x2LUCfzezfwmK5-DSqjsZcqyANEVprQc/view?usp=sharing">
