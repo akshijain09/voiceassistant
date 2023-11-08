@@ -29,3 +29,6 @@ For database we have created and hosted a website with all the required data.
 #Video link
 https://drive.google.com/file/d/1DDIdQAPv6iAUJEsZQhtWLRcPVmWooKUO/view?usp=sharing
 
+
+
+<img align="right"> <img src="<img align="right"> <img src="https://img.freepik.com/premium-photo/beautiful-cute-anime-girl-floating-space-listening-music-her-headphones-manga-style-relaxing-generative-ai-lofi-hip-hop-music-study-girl-chilling-generative-ai_117038-5568.jpg?w=740">">
